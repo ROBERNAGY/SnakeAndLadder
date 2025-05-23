@@ -1,0 +1,16 @@
+kiro 100000003 -99999998
+rober 111112 1
+hellowor 100 1
+frn 100 100
+fatma 12 122223
+ibrahim 10 6
+Rober 1 0
+adsasd 1 0
+maria 1 0
+soso 1 10
+sasa 1 100
+emad 1 200
+5atab 0 1
+bero 0 1
+kero 0 1
+gerges -999999999 99999999

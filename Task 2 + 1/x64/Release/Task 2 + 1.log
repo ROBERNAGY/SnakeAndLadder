@@ -1,0 +1,203 @@
+﻿  GameOver_Screen.cpp
+  Menu.cpp
+e:\workspace\snake & ladder\task 2 + 1\menu.cpp(14): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\workspace\snake & ladder\task 2 + 1\menu.cpp(20): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\workspace\snake & ladder\task 2 + 1\menu.cpp(26): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\workspace\snake & ladder\task 2 + 1\menu.cpp(32): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\workspace\snake & ladder\task 2 + 1\menu.cpp(38): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Nameofplayers.cpp
+e:\workspace\snake & ladder\task 2 + 1\nameofplayers.cpp(16): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\workspace\snake & ladder\task 2 + 1\nameofplayers.cpp(22): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\workspace\snake & ladder\task 2 + 1\nameofplayers.cpp(28): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\workspace\snake & ladder\task 2 + 1\nameofplayers.cpp(34): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\workspace\snake & ladder\task 2 + 1\nameofplayers.cpp(40): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\workspace\snake & ladder\task 2 + 1\nameofplayers.cpp(46): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Nameofplayers2.cpp
+e:\workspace\snake & ladder\task 2 + 1\nameofplayers2.cpp(17): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\workspace\snake & ladder\task 2 + 1\nameofplayers2.cpp(23): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\workspace\snake & ladder\task 2 + 1\nameofplayers2.cpp(29): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\workspace\snake & ladder\task 2 + 1\nameofplayers2.cpp(35): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\workspace\snake & ladder\task 2 + 1\nameofplayers2.cpp(41): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Nameofplayers3.cpp
+e:\workspace\snake & ladder\task 2 + 1\nameofplayers3.cpp(16): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\workspace\snake & ladder\task 2 + 1\nameofplayers3.cpp(22): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\workspace\snake & ladder\task 2 + 1\nameofplayers3.cpp(28): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\workspace\snake & ladder\task 2 + 1\nameofplayers3.cpp(34): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Option.cpp
+e:\workspace\snake & ladder\task 2 + 1\option.cpp(17): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\workspace\snake & ladder\task 2 + 1\option.cpp(23): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\workspace\snake & ladder\task 2 + 1\option.cpp(29): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Playersname.cpp
+  Playersnumber.cpp
+e:\workspace\snake & ladder\task 2 + 1\playersnumber.cpp(16): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\workspace\snake & ladder\task 2 + 1\playersnumber.cpp(22): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\workspace\snake & ladder\task 2 + 1\playersnumber.cpp(28): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\workspace\snake & ladder\task 2 + 1\playersnumber.cpp(34): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Source.cpp
+e:\workspace\snake & ladder\task 2 + 1\nameofplayers.h(3): warning C4005: 'MAX_NUMBER_OF_ITEMS': macro redefinition
+  e:\workspace\snake & ladder\task 2 + 1\menu.h(3): note: see previous definition of 'MAX_NUMBER_OF_ITEMS'
+e:\workspace\snake & ladder\task 2 + 1\nameofplayers2.h(2): warning C4005: 'MAX_NUMBER_OF_ITEMS': macro redefinition
+  e:\workspace\snake & ladder\task 2 + 1\nameofplayers.h(3): note: see previous definition of 'MAX_NUMBER_OF_ITEMS'
+e:\workspace\snake & ladder\task 2 + 1\nameofplayers3.h(3): warning C4005: 'MAX_NUMBER_OF_ITEMS': macro redefinition
+  e:\workspace\snake & ladder\task 2 + 1\nameofplayers2.h(2): note: see previous definition of 'MAX_NUMBER_OF_ITEMS'
+e:\workspace\snake & ladder\task 2 + 1\option.h(3): warning C4005: 'MAX_NUMBER_OF_ITEMS': macro redefinition
+  e:\workspace\snake & ladder\task 2 + 1\nameofplayers3.h(3): note: see previous definition of 'MAX_NUMBER_OF_ITEMS'
+e:\workspace\snake & ladder\task 2 + 1\source.cpp(68): warning C4326: return type of 'main' should be 'int' instead of 'void'
+e:\workspace\snake & ladder\task 2 + 1\source.cpp(69): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\workspace\snake & ladder\task 2 + 1\source.cpp(83): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+e:\workspace\snake & ladder\task 2 + 1\source.cpp(84): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+e:\workspace\snake & ladder\task 2 + 1\source.cpp(148): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+e:\workspace\snake & ladder\task 2 + 1\source.cpp(252): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+e:\workspace\snake & ladder\task 2 + 1\source.cpp(312): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+e:\workspace\snake & ladder\task 2 + 1\source.cpp(374): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+e:\workspace\snake & ladder\task 2 + 1\source.cpp(488): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+e:\workspace\snake & ladder\task 2 + 1\source.cpp(634): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\workspace\snake & ladder\task 2 + 1\source.cpp(703): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\workspace\snake & ladder\task 2 + 1\source.cpp(953): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Generating code
+e:\workspace\snake & ladder\task 2 + 1\gameover_screen.cpp(103): warning C4715: 'GameOver_Screen::getItemPressed': not all control paths return a value
+  179 of 181 functions (98.9%) were compiled, the rest were copied from previous compilation.
+    101 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Task 2 + 1.vcxproj -> E:\WorkSpace\Snake & Ladder\x64\Release\Task 2 + 1.exe
